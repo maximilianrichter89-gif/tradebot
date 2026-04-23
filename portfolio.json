@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "created_at": "2026-04-23",
+    "benchmark": "SPY",
+    "satellite_budget": 10000.00,
+    "currency": "EUR"
+  },
+  "cash": 10000.00,
+  "positions": [],
+  "trades": [],
+  "performance_snapshots": []
+}

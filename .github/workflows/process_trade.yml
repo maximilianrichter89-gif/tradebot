@@ -1,0 +1,34 @@
+name: Process Trade
+
+on:
+  repository_dispatch:
+    types: [trade]
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Process trade
+        run: |
+          python scripts/update_portfolio.py \
+            "${{ github.event.client_payload.action }}" \
+            "${{ github.event.client_payload.ticker }}" \
+            "${{ github.event.client_payload.shares }}" \
+            "${{ github.event.client_payload.price }}" \
+            --note "${{ github.event.client_payload.note }}"
+
+      - name: Commit portfolio update
+        run: |
+          git config user.name "TradeBot"
+          git config user.email "tradebot@users.noreply.github.com"
+          git add portfolio.json
+          git commit -m "trade: ${{ github.event.client_payload.action }} ${{ github.event.client_payload.shares }} ${{ github.event.client_payload.ticker }} @ ${{ github.event.client_payload.price }}"
+          git push
