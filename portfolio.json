@@ -5,33 +5,8 @@
     "satellite_budget": 10000.0,
     "currency": "EUR"
   },
-  "cash": 7000.0,
-  "positions": [
-    {
-      "ticker": "NVDA",
-      "shares": 16.0,
-      "avg_buy_price": 187.5,
-      "first_buy_date": "2026-04-23",
-      "momentum_rank_at_buy": null
-    }
-  ],
-  "trades": [
-    {
-      "date": "2026-04-23",
-      "action": "BUY",
-      "ticker": "NVDA",
-      "shares": 8.0,
-      "price": 187.5,
-      "note": "test"
-    },
-    {
-      "date": "2026-04-23",
-      "action": "BUY",
-      "ticker": "NVDA",
-      "shares": 8.0,
-      "price": 187.5,
-      "note": "Telegram @MaxJudge"
-    }
-  ],
+  "cash": 10000.0,
+  "positions": [],
+  "trades": [],
   "performance_snapshots": []
 }
