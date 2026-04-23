@@ -39,8 +39,9 @@ export default {
       return new Response("OK");
     }
 
+    const repo = env.GH_REPO || "maximilianrichter89-gif/tradebot";
     const ghResponse = await fetch(
-      `https://api.github.com/repos/${env.GH_REPO}/dispatches`,
+      `https://api.github.com/repos/${repo}/dispatches`,
       {
         method: "POST",
         headers: {
@@ -67,8 +68,6 @@ export default {
         `✅ Trade wird verarbeitet:\n${action.toUpperCase()} ${shares} ${ticker} @ ${price}€\n\nPortfolio aktualisiert sich in ~30 Sekunden.`
       );
     } else {
-      const err = await ghResponse.text();
-      console.error("GitHub API error:", ghResponse.status, err);
       await sendTelegram(env.TELEGRAM_BOT_TOKEN, chatId,
         "❌ Fehler beim Verarbeiten des Trades. Bitte nochmal versuchen.");
     }
