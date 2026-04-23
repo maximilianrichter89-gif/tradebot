@@ -2,11 +2,28 @@
   "meta": {
     "created_at": "2026-04-23",
     "benchmark": "SPY",
-    "satellite_budget": 10000.00,
+    "satellite_budget": 10000.0,
     "currency": "EUR"
   },
-  "cash": 10000.00,
-  "positions": [],
-  "trades": [],
+  "cash": 8500.0,
+  "positions": [
+    {
+      "ticker": "NVDA",
+      "shares": 8.0,
+      "avg_buy_price": 187.5,
+      "first_buy_date": "2026-04-23",
+      "momentum_rank_at_buy": null
+    }
+  ],
+  "trades": [
+    {
+      "date": "2026-04-23",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "shares": 8.0,
+      "price": 187.5,
+      "note": "test"
+    }
+  ],
   "performance_snapshots": []
 }
