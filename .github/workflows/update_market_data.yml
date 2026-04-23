@@ -1,0 +1,38 @@
+name: Update Market Data
+
+on:
+  schedule:
+    # 22:00 UTC = nach US Market Close (auch bei DST-Wechsel safe)
+    - cron: "0 22 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run momentum screener
+        run: python scripts/update_market_data.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "TradeBot"
+          git config user.email "tradebot@users.noreply.github.com"
+          git add market_data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: market update $(date -u +%Y-%m-%d)"
+            git push
+          fi

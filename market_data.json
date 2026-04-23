@@ -1,0 +1,3004 @@
+{
+  "updated_at": "2026-04-23T11:01:42Z",
+  "regime": {
+    "sp500_price": 7137.9,
+    "sp500_ma200": 6701.23,
+    "above_ma200": true,
+    "vix": 19.68,
+    "breadth_pct": 58.4,
+    "status": "GREEN"
+  },
+  "momentum_ranking": [
+    {
+      "rank": 1,
+      "ticker": "STX",
+      "momentum_12_1": 4.7018,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 2,
+      "ticker": "MU",
+      "momentum_12_1": 4.6446,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 3,
+      "ticker": "SATS",
+      "momentum_12_1": 4.2013,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 4,
+      "ticker": "COHR",
+      "momentum_12_1": 3.9398,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 5,
+      "ticker": "TER",
+      "momentum_12_1": 3.5073,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 6,
+      "ticker": "FIX",
+      "momentum_12_1": 3.3065,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 7,
+      "ticker": "LRCX",
+      "momentum_12_1": 2.79,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 8,
+      "ticker": "VRT",
+      "momentum_12_1": 2.7765,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 9,
+      "ticker": "GLW",
+      "momentum_12_1": 2.4527,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 10,
+      "ticker": "WBD",
+      "momentum_12_1": 2.4314,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 11,
+      "ticker": "ALB",
+      "momentum_12_1": 2.2895,
+      "sector": "Materials"
+    },
+    {
+      "rank": 12,
+      "ticker": "GEV",
+      "momentum_12_1": 1.7951,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 13,
+      "ticker": "AMAT",
+      "momentum_12_1": 1.7284,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 14,
+      "ticker": "APA",
+      "momentum_12_1": 1.6618,
+      "sector": "Energy"
+    },
+    {
+      "rank": 15,
+      "ticker": "CAT",
+      "momentum_12_1": 1.4831,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 16,
+      "ticker": "KLAC",
+      "momentum_12_1": 1.4798,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 17,
+      "ticker": "AMD",
+      "momentum_12_1": 1.3808,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 18,
+      "ticker": "INTC",
+      "momentum_12_1": 1.2583,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 19,
+      "ticker": "TPR",
+      "momentum_12_1": 1.2505,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 20,
+      "ticker": "VLO",
+      "momentum_12_1": 1.2128,
+      "sector": "Energy"
+    },
+    {
+      "rank": 21,
+      "ticker": "PWR",
+      "momentum_12_1": 1.2107,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 22,
+      "ticker": "KEYS",
+      "momentum_12_1": 1.2099,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 23,
+      "ticker": "MPWR",
+      "momentum_12_1": 1.1643,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 24,
+      "ticker": "DELL",
+      "momentum_12_1": 1.1295,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 25,
+      "ticker": "JBL",
+      "momentum_12_1": 1.0851,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 26,
+      "ticker": "EME",
+      "momentum_12_1": 1.0427,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 27,
+      "ticker": "CMI",
+      "momentum_12_1": 1.0245,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 28,
+      "ticker": "MRNA",
+      "momentum_12_1": 0.9946,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 29,
+      "ticker": "APH",
+      "momentum_12_1": 0.9599,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 30,
+      "ticker": "HWM",
+      "momentum_12_1": 0.9316,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 31,
+      "ticker": "GOOGL",
+      "momentum_12_1": 0.9241,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 32,
+      "ticker": "CHRW",
+      "momentum_12_1": 0.9097,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 33,
+      "ticker": "ANET",
+      "momentum_12_1": 0.9048,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 34,
+      "ticker": "MPC",
+      "momentum_12_1": 0.8962,
+      "sector": "Energy"
+    },
+    {
+      "rank": 35,
+      "ticker": "AVGO",
+      "momentum_12_1": 0.8921,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 36,
+      "ticker": "PSX",
+      "momentum_12_1": 0.8918,
+      "sector": "Energy"
+    },
+    {
+      "rank": 37,
+      "ticker": "HAL",
+      "momentum_12_1": 0.8915,
+      "sector": "Energy"
+    },
+    {
+      "rank": 38,
+      "ticker": "GNRC",
+      "momentum_12_1": 0.8904,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 39,
+      "ticker": "GOOG",
+      "momentum_12_1": 0.8856,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 40,
+      "ticker": "HII",
+      "momentum_12_1": 0.8856,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 41,
+      "ticker": "IVZ",
+      "momentum_12_1": 0.8504,
+      "sector": "Financials"
+    },
+    {
+      "rank": 42,
+      "ticker": "HAS",
+      "momentum_12_1": 0.841,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 43,
+      "ticker": "NEM",
+      "momentum_12_1": 0.8391,
+      "sector": "Materials"
+    },
+    {
+      "rank": 44,
+      "ticker": "APP",
+      "momentum_12_1": 0.8338,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 45,
+      "ticker": "ADI",
+      "momentum_12_1": 0.8305,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 46,
+      "ticker": "VTRS",
+      "momentum_12_1": 0.8183,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 47,
+      "ticker": "C",
+      "momentum_12_1": 0.8079,
+      "sector": "Financials"
+    },
+    {
+      "rank": 48,
+      "ticker": "JCI",
+      "momentum_12_1": 0.7928,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 49,
+      "ticker": "DD",
+      "momentum_12_1": 0.7879,
+      "sector": "Materials"
+    },
+    {
+      "rank": 50,
+      "ticker": "FDX",
+      "momentum_12_1": 0.7813,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 51,
+      "ticker": "NVDA",
+      "momentum_12_1": 0.7721,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 52,
+      "ticker": "ON",
+      "momentum_12_1": 0.7585,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 53,
+      "ticker": "RTX",
+      "momentum_12_1": 0.7343,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 54,
+      "ticker": "CF",
+      "momentum_12_1": 0.7192,
+      "sector": "Materials"
+    },
+    {
+      "rank": 55,
+      "ticker": "GM",
+      "momentum_12_1": 0.7128,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 56,
+      "ticker": "CFG",
+      "momentum_12_1": 0.7056,
+      "sector": "Financials"
+    },
+    {
+      "rank": 57,
+      "ticker": "BKR",
+      "momentum_12_1": 0.6886,
+      "sector": "Energy"
+    },
+    {
+      "rank": 58,
+      "ticker": "IBKR",
+      "momentum_12_1": 0.6881,
+      "sector": "Financials"
+    },
+    {
+      "rank": 59,
+      "ticker": "MCHP",
+      "momentum_12_1": 0.6777,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 60,
+      "ticker": "FCX",
+      "momentum_12_1": 0.6738,
+      "sector": "Materials"
+    },
+    {
+      "rank": 61,
+      "ticker": "DAL",
+      "momentum_12_1": 0.6725,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 62,
+      "ticker": "LHX",
+      "momentum_12_1": 0.6619,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 63,
+      "ticker": "RL",
+      "momentum_12_1": 0.6536,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 64,
+      "ticker": "DVN",
+      "momentum_12_1": 0.6529,
+      "sector": "Energy"
+    },
+    {
+      "rank": 65,
+      "ticker": "LVS",
+      "momentum_12_1": 0.6512,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 66,
+      "ticker": "PLTR",
+      "momentum_12_1": 0.6468,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 67,
+      "ticker": "PH",
+      "momentum_12_1": 0.6467,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 68,
+      "ticker": "LUV",
+      "momentum_12_1": 0.6418,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 69,
+      "ticker": "HOOD",
+      "momentum_12_1": 0.6412,
+      "sector": "Financials"
+    },
+    {
+      "rank": 70,
+      "ticker": "GS",
+      "momentum_12_1": 0.6405,
+      "sector": "Financials"
+    },
+    {
+      "rank": 71,
+      "ticker": "HPE",
+      "momentum_12_1": 0.6175,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 72,
+      "ticker": "JBHT",
+      "momentum_12_1": 0.6137,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 73,
+      "ticker": "NTRS",
+      "momentum_12_1": 0.6104,
+      "sector": "Financials"
+    },
+    {
+      "rank": 74,
+      "ticker": "TSLA",
+      "momentum_12_1": 0.6096,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 75,
+      "ticker": "BG",
+      "momentum_12_1": 0.5972,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 76,
+      "ticker": "ROST",
+      "momentum_12_1": 0.5806,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 77,
+      "ticker": "XOM",
+      "momentum_12_1": 0.5795,
+      "sector": "Energy"
+    },
+    {
+      "rank": 78,
+      "ticker": "INCY",
+      "momentum_12_1": 0.5793,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 79,
+      "ticker": "CVX",
+      "momentum_12_1": 0.5739,
+      "sector": "Energy"
+    },
+    {
+      "rank": 80,
+      "ticker": "BK",
+      "momentum_12_1": 0.5678,
+      "sector": "Financials"
+    },
+    {
+      "rank": 81,
+      "ticker": "OXY",
+      "momentum_12_1": 0.5656,
+      "sector": "Energy"
+    },
+    {
+      "rank": 82,
+      "ticker": "ROK",
+      "momentum_12_1": 0.5645,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 83,
+      "ticker": "CAH",
+      "momentum_12_1": 0.5638,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 84,
+      "ticker": "TEL",
+      "momentum_12_1": 0.5635,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 85,
+      "ticker": "EXPE",
+      "momentum_12_1": 0.5623,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 86,
+      "ticker": "AKAM",
+      "momentum_12_1": 0.5542,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 87,
+      "ticker": "NRG",
+      "momentum_12_1": 0.5486,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 88,
+      "ticker": "BIIB",
+      "momentum_12_1": 0.5471,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 89,
+      "ticker": "GE",
+      "momentum_12_1": 0.5444,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 90,
+      "ticker": "MS",
+      "momentum_12_1": 0.543,
+      "sector": "Financials"
+    },
+    {
+      "rank": 91,
+      "ticker": "STT",
+      "momentum_12_1": 0.5381,
+      "sector": "Financials"
+    },
+    {
+      "rank": 92,
+      "ticker": "JNJ",
+      "momentum_12_1": 0.533,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 93,
+      "ticker": "MRK",
+      "momentum_12_1": 0.5271,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 94,
+      "ticker": "ADM",
+      "momentum_12_1": 0.5237,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 95,
+      "ticker": "CASY",
+      "momentum_12_1": 0.5079,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 96,
+      "ticker": "HCA",
+      "momentum_12_1": 0.5063,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 97,
+      "ticker": "SLB",
+      "momentum_12_1": 0.504,
+      "sector": "Energy"
+    },
+    {
+      "rank": 98,
+      "ticker": "HUBB",
+      "momentum_12_1": 0.5033,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 99,
+      "ticker": "NUE",
+      "momentum_12_1": 0.502,
+      "sector": "Materials"
+    },
+    {
+      "rank": 100,
+      "ticker": "AES",
+      "momentum_12_1": 0.4968,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 101,
+      "ticker": "CSCO",
+      "momentum_12_1": 0.4948,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 102,
+      "ticker": "NOC",
+      "momentum_12_1": 0.4935,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 103,
+      "ticker": "NDSN",
+      "momentum_12_1": 0.491,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 104,
+      "ticker": "COP",
+      "momentum_12_1": 0.4904,
+      "sector": "Energy"
+    },
+    {
+      "rank": 105,
+      "ticker": "CRL",
+      "momentum_12_1": 0.4893,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 106,
+      "ticker": "MAR",
+      "momentum_12_1": 0.484,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 107,
+      "ticker": "FANG",
+      "momentum_12_1": 0.4826,
+      "sector": "Energy"
+    },
+    {
+      "rank": 108,
+      "ticker": "CEG",
+      "momentum_12_1": 0.4752,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 109,
+      "ticker": "TRGP",
+      "momentum_12_1": 0.4739,
+      "sector": "Energy"
+    },
+    {
+      "rank": 110,
+      "ticker": "KEY",
+      "momentum_12_1": 0.4628,
+      "sector": "Financials"
+    },
+    {
+      "rank": 111,
+      "ticker": "STLD",
+      "momentum_12_1": 0.4607,
+      "sector": "Materials"
+    },
+    {
+      "rank": 112,
+      "ticker": "CTRA",
+      "momentum_12_1": 0.4442,
+      "sector": "Energy"
+    },
+    {
+      "rank": 113,
+      "ticker": "WAB",
+      "momentum_12_1": 0.4371,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 114,
+      "ticker": "HST",
+      "momentum_12_1": 0.4339,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 115,
+      "ticker": "LYB",
+      "momentum_12_1": 0.4284,
+      "sector": "Materials"
+    },
+    {
+      "rank": 116,
+      "ticker": "HLT",
+      "momentum_12_1": 0.4269,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 117,
+      "ticker": "FSLR",
+      "momentum_12_1": 0.4248,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 118,
+      "ticker": "CCL",
+      "momentum_12_1": 0.4231,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 119,
+      "ticker": "CSX",
+      "momentum_12_1": 0.4205,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 120,
+      "ticker": "CVNA",
+      "momentum_12_1": 0.42,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 121,
+      "ticker": "ETN",
+      "momentum_12_1": 0.4189,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 122,
+      "ticker": "NEE",
+      "momentum_12_1": 0.4157,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 123,
+      "ticker": "SYF",
+      "momentum_12_1": 0.4105,
+      "sector": "Financials"
+    },
+    {
+      "rank": 124,
+      "ticker": "DOW",
+      "momentum_12_1": 0.4104,
+      "sector": "Materials"
+    },
+    {
+      "rank": 125,
+      "ticker": "UAL",
+      "momentum_12_1": 0.397,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 126,
+      "ticker": "RCL",
+      "momentum_12_1": 0.3893,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 127,
+      "ticker": "EA",
+      "momentum_12_1": 0.3881,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 128,
+      "ticker": "TXT",
+      "momentum_12_1": 0.3853,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 129,
+      "ticker": "USB",
+      "momentum_12_1": 0.3794,
+      "sector": "Financials"
+    },
+    {
+      "rank": 130,
+      "ticker": "PNC",
+      "momentum_12_1": 0.3704,
+      "sector": "Financials"
+    },
+    {
+      "rank": 131,
+      "ticker": "TXN",
+      "momentum_12_1": 0.3681,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 132,
+      "ticker": "AME",
+      "momentum_12_1": 0.368,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 133,
+      "ticker": "BEN",
+      "momentum_12_1": 0.3664,
+      "sector": "Financials"
+    },
+    {
+      "rank": 134,
+      "ticker": "VST",
+      "momentum_12_1": 0.3629,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 135,
+      "ticker": "FITB",
+      "momentum_12_1": 0.3626,
+      "sector": "Financials"
+    },
+    {
+      "rank": 136,
+      "ticker": "EQT",
+      "momentum_12_1": 0.361,
+      "sector": "Energy"
+    },
+    {
+      "rank": 137,
+      "ticker": "ULTA",
+      "momentum_12_1": 0.3606,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 138,
+      "ticker": "TDY",
+      "momentum_12_1": 0.3578,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 139,
+      "ticker": "WELL",
+      "momentum_12_1": 0.3574,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 140,
+      "ticker": "LMT",
+      "momentum_12_1": 0.3566,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 141,
+      "ticker": "APTV",
+      "momentum_12_1": 0.3565,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 142,
+      "ticker": "SRE",
+      "momentum_12_1": 0.3539,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 143,
+      "ticker": "IDXX",
+      "momentum_12_1": 0.3525,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 144,
+      "ticker": "RF",
+      "momentum_12_1": 0.3512,
+      "sector": "Financials"
+    },
+    {
+      "rank": 145,
+      "ticker": "PLD",
+      "momentum_12_1": 0.3495,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 146,
+      "ticker": "EBAY",
+      "momentum_12_1": 0.3476,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 147,
+      "ticker": "WYNN",
+      "momentum_12_1": 0.3474,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 148,
+      "ticker": "GILD",
+      "momentum_12_1": 0.3438,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 149,
+      "ticker": "CTVA",
+      "momentum_12_1": 0.3416,
+      "sector": "Materials"
+    },
+    {
+      "rank": 150,
+      "ticker": "EXPD",
+      "momentum_12_1": 0.3416,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 151,
+      "ticker": "PCAR",
+      "momentum_12_1": 0.3411,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 152,
+      "ticker": "DDOG",
+      "momentum_12_1": 0.3407,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 153,
+      "ticker": "DOV",
+      "momentum_12_1": 0.3324,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 154,
+      "ticker": "KMI",
+      "momentum_12_1": 0.3306,
+      "sector": "Energy"
+    },
+    {
+      "rank": 155,
+      "ticker": "CBOE",
+      "momentum_12_1": 0.3294,
+      "sector": "Financials"
+    },
+    {
+      "rank": 156,
+      "ticker": "EMR",
+      "momentum_12_1": 0.3259,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 157,
+      "ticker": "HSY",
+      "momentum_12_1": 0.3247,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 158,
+      "ticker": "TKO",
+      "momentum_12_1": 0.3244,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 159,
+      "ticker": "WMB",
+      "momentum_12_1": 0.3213,
+      "sector": "Energy"
+    },
+    {
+      "rank": 160,
+      "ticker": "EOG",
+      "momentum_12_1": 0.3158,
+      "sector": "Energy"
+    },
+    {
+      "rank": 161,
+      "ticker": "NSC",
+      "momentum_12_1": 0.3156,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 162,
+      "ticker": "URI",
+      "momentum_12_1": 0.3109,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 163,
+      "ticker": "TFC",
+      "momentum_12_1": 0.3071,
+      "sector": "Financials"
+    },
+    {
+      "rank": 164,
+      "ticker": "TT",
+      "momentum_12_1": 0.3019,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 165,
+      "ticker": "WMT",
+      "momentum_12_1": 0.2982,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 166,
+      "ticker": "EL",
+      "momentum_12_1": 0.2982,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 167,
+      "ticker": "DLTR",
+      "momentum_12_1": 0.2966,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 168,
+      "ticker": "MTB",
+      "momentum_12_1": 0.2959,
+      "sector": "Financials"
+    },
+    {
+      "rank": 169,
+      "ticker": "DE",
+      "momentum_12_1": 0.2953,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 170,
+      "ticker": "AMGN",
+      "momentum_12_1": 0.2908,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 171,
+      "ticker": "EIX",
+      "momentum_12_1": 0.2905,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 172,
+      "ticker": "F",
+      "momentum_12_1": 0.29,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 173,
+      "ticker": "WSM",
+      "momentum_12_1": 0.2895,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 174,
+      "ticker": "TGT",
+      "momentum_12_1": 0.2883,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 175,
+      "ticker": "SWK",
+      "momentum_12_1": 0.2849,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 176,
+      "ticker": "BAC",
+      "momentum_12_1": 0.2845,
+      "sector": "Financials"
+    },
+    {
+      "rank": 177,
+      "ticker": "PFE",
+      "momentum_12_1": 0.2835,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 178,
+      "ticker": "NTAP",
+      "momentum_12_1": 0.283,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 179,
+      "ticker": "GRMN",
+      "momentum_12_1": 0.2804,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 180,
+      "ticker": "GD",
+      "momentum_12_1": 0.2772,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 181,
+      "ticker": "TJX",
+      "momentum_12_1": 0.2753,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 182,
+      "ticker": "REGN",
+      "momentum_12_1": 0.2737,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 183,
+      "ticker": "MCK",
+      "momentum_12_1": 0.2737,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 184,
+      "ticker": "AAPL",
+      "momentum_12_1": 0.2653,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 185,
+      "ticker": "SCHW",
+      "momentum_12_1": 0.2648,
+      "sector": "Financials"
+    },
+    {
+      "rank": 186,
+      "ticker": "ETR",
+      "momentum_12_1": 0.2648,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 187,
+      "ticker": "MTD",
+      "momentum_12_1": 0.2605,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 188,
+      "ticker": "JPM",
+      "momentum_12_1": 0.2588,
+      "sector": "Financials"
+    },
+    {
+      "rank": 189,
+      "ticker": "IRM",
+      "momentum_12_1": 0.2554,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 190,
+      "ticker": "L",
+      "momentum_12_1": 0.2532,
+      "sector": "Financials"
+    },
+    {
+      "rank": 191,
+      "ticker": "CRH",
+      "momentum_12_1": 0.2519,
+      "sector": "Materials"
+    },
+    {
+      "rank": 192,
+      "ticker": "PFG",
+      "momentum_12_1": 0.2507,
+      "sector": "Financials"
+    },
+    {
+      "rank": 193,
+      "ticker": "EQIX",
+      "momentum_12_1": 0.2475,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 194,
+      "ticker": "SPG",
+      "momentum_12_1": 0.2418,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 195,
+      "ticker": "BALL",
+      "momentum_12_1": 0.2402,
+      "sector": "Materials"
+    },
+    {
+      "rank": 196,
+      "ticker": "VZ",
+      "momentum_12_1": 0.2395,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 197,
+      "ticker": "SNA",
+      "momentum_12_1": 0.2377,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 198,
+      "ticker": "DG",
+      "momentum_12_1": 0.2368,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 199,
+      "ticker": "TPL",
+      "momentum_12_1": 0.2329,
+      "sector": "Energy"
+    },
+    {
+      "rank": 200,
+      "ticker": "MNST",
+      "momentum_12_1": 0.2314,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 201,
+      "ticker": "FOXA",
+      "momentum_12_1": 0.2307,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 202,
+      "ticker": "AEP",
+      "momentum_12_1": 0.2307,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 203,
+      "ticker": "VTR",
+      "momentum_12_1": 0.2286,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 204,
+      "ticker": "WFC",
+      "momentum_12_1": 0.2281,
+      "sector": "Financials"
+    },
+    {
+      "rank": 205,
+      "ticker": "MGM",
+      "momentum_12_1": 0.2256,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 206,
+      "ticker": "ODFL",
+      "momentum_12_1": 0.2252,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 207,
+      "ticker": "LH",
+      "momentum_12_1": 0.2212,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 208,
+      "ticker": "CINF",
+      "momentum_12_1": 0.2178,
+      "sector": "Financials"
+    },
+    {
+      "rank": 209,
+      "ticker": "ES",
+      "momentum_12_1": 0.2162,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 210,
+      "ticker": "EVRG",
+      "momentum_12_1": 0.2134,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 211,
+      "ticker": "HON",
+      "momentum_12_1": 0.2105,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 212,
+      "ticker": "ABBV",
+      "momentum_12_1": 0.2092,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 213,
+      "ticker": "BA",
+      "momentum_12_1": 0.2086,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 214,
+      "ticker": "DLR",
+      "momentum_12_1": 0.2076,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 215,
+      "ticker": "AXP",
+      "momentum_12_1": 0.2051,
+      "sector": "Financials"
+    },
+    {
+      "rank": 216,
+      "ticker": "NI",
+      "momentum_12_1": 0.203,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 217,
+      "ticker": "FE",
+      "momentum_12_1": 0.1979,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 218,
+      "ticker": "BMY",
+      "momentum_12_1": 0.1972,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 219,
+      "ticker": "AMZN",
+      "momentum_12_1": 0.1967,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 220,
+      "ticker": "META",
+      "momentum_12_1": 0.1889,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 221,
+      "ticker": "LYV",
+      "momentum_12_1": 0.1883,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 222,
+      "ticker": "FOX",
+      "momentum_12_1": 0.1851,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 223,
+      "ticker": "NCLH",
+      "momentum_12_1": 0.1836,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 224,
+      "ticker": "CME",
+      "momentum_12_1": 0.1834,
+      "sector": "Financials"
+    },
+    {
+      "rank": 225,
+      "ticker": "D",
+      "momentum_12_1": 0.1809,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 226,
+      "ticker": "PHM",
+      "momentum_12_1": 0.1798,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 227,
+      "ticker": "MLM",
+      "momentum_12_1": 0.1798,
+      "sector": "Materials"
+    },
+    {
+      "rank": 228,
+      "ticker": "LNT",
+      "momentum_12_1": 0.1781,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 229,
+      "ticker": "IEX",
+      "momentum_12_1": 0.1772,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 230,
+      "ticker": "NDAQ",
+      "momentum_12_1": 0.1735,
+      "sector": "Financials"
+    },
+    {
+      "rank": 231,
+      "ticker": "PKG",
+      "momentum_12_1": 0.1734,
+      "sector": "Materials"
+    },
+    {
+      "rank": 232,
+      "ticker": "AIZ",
+      "momentum_12_1": 0.1693,
+      "sector": "Financials"
+    },
+    {
+      "rank": 233,
+      "ticker": "ORCL",
+      "momentum_12_1": 0.1635,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 234,
+      "ticker": "HIG",
+      "momentum_12_1": 0.1595,
+      "sector": "Financials"
+    },
+    {
+      "rank": 235,
+      "ticker": "ATO",
+      "momentum_12_1": 0.1593,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 236,
+      "ticker": "ALLE",
+      "momentum_12_1": 0.1577,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 237,
+      "ticker": "UHS",
+      "momentum_12_1": 0.1572,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 238,
+      "ticker": "EW",
+      "momentum_12_1": 0.1571,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 239,
+      "ticker": "IQV",
+      "momentum_12_1": 0.1565,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 240,
+      "ticker": "KIM",
+      "momentum_12_1": 0.1564,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 241,
+      "ticker": "SBUX",
+      "momentum_12_1": 0.1562,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 242,
+      "ticker": "HBAN",
+      "momentum_12_1": 0.154,
+      "sector": "Financials"
+    },
+    {
+      "rank": 243,
+      "ticker": "GEHC",
+      "momentum_12_1": 0.1531,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 244,
+      "ticker": "IR",
+      "momentum_12_1": 0.152,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 245,
+      "ticker": "COR",
+      "momentum_12_1": 0.1514,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 246,
+      "ticker": "MO",
+      "momentum_12_1": 0.1511,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 247,
+      "ticker": "CNP",
+      "momentum_12_1": 0.15,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 248,
+      "ticker": "DGX",
+      "momentum_12_1": 0.1499,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 249,
+      "ticker": "SYY",
+      "momentum_12_1": 0.1471,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 250,
+      "ticker": "HSIC",
+      "momentum_12_1": 0.1469,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 251,
+      "ticker": "GL",
+      "momentum_12_1": 0.1459,
+      "sector": "Financials"
+    },
+    {
+      "rank": 252,
+      "ticker": "WST",
+      "momentum_12_1": 0.1441,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 253,
+      "ticker": "ITW",
+      "momentum_12_1": 0.143,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 254,
+      "ticker": "CVS",
+      "momentum_12_1": 0.1429,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 255,
+      "ticker": "OKE",
+      "momentum_12_1": 0.1423,
+      "sector": "Energy"
+    },
+    {
+      "rank": 256,
+      "ticker": "FRT",
+      "momentum_12_1": 0.1403,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 257,
+      "ticker": "NXPI",
+      "momentum_12_1": 0.14,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 258,
+      "ticker": "TRV",
+      "momentum_12_1": 0.1391,
+      "sector": "Financials"
+    },
+    {
+      "rank": 259,
+      "ticker": "LDOS",
+      "momentum_12_1": 0.1364,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 260,
+      "ticker": "DVA",
+      "momentum_12_1": 0.1357,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 261,
+      "ticker": "FFIV",
+      "momentum_12_1": 0.1345,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 262,
+      "ticker": "DIS",
+      "momentum_12_1": 0.132,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 263,
+      "ticker": "TMO",
+      "momentum_12_1": 0.132,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 264,
+      "ticker": "ABNB",
+      "momentum_12_1": 0.1313,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 265,
+      "ticker": "UNP",
+      "momentum_12_1": 0.131,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 266,
+      "ticker": "ECL",
+      "momentum_12_1": 0.1285,
+      "sector": "Materials"
+    },
+    {
+      "rank": 267,
+      "ticker": "CB",
+      "momentum_12_1": 0.1283,
+      "sector": "Financials"
+    },
+    {
+      "rank": 268,
+      "ticker": "TRMB",
+      "momentum_12_1": 0.127,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 269,
+      "ticker": "XEL",
+      "momentum_12_1": 0.1266,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 270,
+      "ticker": "FAST",
+      "momentum_12_1": 0.1256,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 271,
+      "ticker": "CBRE",
+      "momentum_12_1": 0.1246,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 272,
+      "ticker": "BLK",
+      "momentum_12_1": 0.1228,
+      "sector": "Financials"
+    },
+    {
+      "rank": 273,
+      "ticker": "YUM",
+      "momentum_12_1": 0.1203,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 274,
+      "ticker": "DHI",
+      "momentum_12_1": 0.1201,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 275,
+      "ticker": "AEE",
+      "momentum_12_1": 0.1175,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 276,
+      "ticker": "A",
+      "momentum_12_1": 0.1174,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 277,
+      "ticker": "VMC",
+      "momentum_12_1": 0.1165,
+      "sector": "Materials"
+    },
+    {
+      "rank": 278,
+      "ticker": "J",
+      "momentum_12_1": 0.1101,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 279,
+      "ticker": "FTV",
+      "momentum_12_1": 0.109,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 280,
+      "ticker": "T",
+      "momentum_12_1": 0.106,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 281,
+      "ticker": "XYZ",
+      "momentum_12_1": 0.1023,
+      "sector": "Financials"
+    },
+    {
+      "rank": 282,
+      "ticker": "CDNS",
+      "momentum_12_1": 0.1014,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 283,
+      "ticker": "APD",
+      "momentum_12_1": 0.1008,
+      "sector": "Materials"
+    },
+    {
+      "rank": 284,
+      "ticker": "COF",
+      "momentum_12_1": 0.0996,
+      "sector": "Financials"
+    },
+    {
+      "rank": 285,
+      "ticker": "LLY",
+      "momentum_12_1": 0.0993,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 286,
+      "ticker": "EXE",
+      "momentum_12_1": 0.098,
+      "sector": "Energy"
+    },
+    {
+      "rank": 287,
+      "ticker": "MMM",
+      "momentum_12_1": 0.0957,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 288,
+      "ticker": "MSI",
+      "momentum_12_1": 0.0951,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 289,
+      "ticker": "PEP",
+      "momentum_12_1": 0.0917,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 290,
+      "ticker": "LOW",
+      "momentum_12_1": 0.0917,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 291,
+      "ticker": "XYL",
+      "momentum_12_1": 0.0915,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 292,
+      "ticker": "DTE",
+      "momentum_12_1": 0.0907,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 293,
+      "ticker": "ALL",
+      "momentum_12_1": 0.0902,
+      "sector": "Financials"
+    },
+    {
+      "rank": 294,
+      "ticker": "RJF",
+      "momentum_12_1": 0.089,
+      "sector": "Financials"
+    },
+    {
+      "rank": 295,
+      "ticker": "O",
+      "momentum_12_1": 0.0868,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 296,
+      "ticker": "TROW",
+      "momentum_12_1": 0.086,
+      "sector": "Financials"
+    },
+    {
+      "rank": 297,
+      "ticker": "UPS",
+      "momentum_12_1": 0.086,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 298,
+      "ticker": "DUK",
+      "momentum_12_1": 0.0764,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 299,
+      "ticker": "GWW",
+      "momentum_12_1": 0.0761,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 300,
+      "ticker": "RMD",
+      "momentum_12_1": 0.0755,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 301,
+      "ticker": "TECH",
+      "momentum_12_1": 0.0745,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 302,
+      "ticker": "REG",
+      "momentum_12_1": 0.0739,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 303,
+      "ticker": "PNW",
+      "momentum_12_1": 0.0722,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 304,
+      "ticker": "WEC",
+      "momentum_12_1": 0.0712,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 305,
+      "ticker": "LIN",
+      "momentum_12_1": 0.0697,
+      "sector": "Materials"
+    },
+    {
+      "rank": 306,
+      "ticker": "OMC",
+      "momentum_12_1": 0.0694,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 307,
+      "ticker": "CRWD",
+      "momentum_12_1": 0.0666,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 308,
+      "ticker": "MDT",
+      "momentum_12_1": 0.0628,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 309,
+      "ticker": "SO",
+      "momentum_12_1": 0.0567,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 310,
+      "ticker": "PPL",
+      "momentum_12_1": 0.056,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 311,
+      "ticker": "CMS",
+      "momentum_12_1": 0.0532,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 312,
+      "ticker": "AOS",
+      "momentum_12_1": 0.0442,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 313,
+      "ticker": "PPG",
+      "momentum_12_1": 0.0429,
+      "sector": "Materials"
+    },
+    {
+      "rank": 314,
+      "ticker": "KO",
+      "momentum_12_1": 0.0397,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 315,
+      "ticker": "PM",
+      "momentum_12_1": 0.0339,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 316,
+      "ticker": "EXC",
+      "momentum_12_1": 0.0338,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 317,
+      "ticker": "ALGN",
+      "momentum_12_1": 0.0315,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 318,
+      "ticker": "BBY",
+      "momentum_12_1": 0.0285,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 319,
+      "ticker": "TSN",
+      "momentum_12_1": 0.027,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 320,
+      "ticker": "MSFT",
+      "momentum_12_1": 0.0239,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 321,
+      "ticker": "IBM",
+      "momentum_12_1": 0.0235,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 322,
+      "ticker": "PNR",
+      "momentum_12_1": 0.0228,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 323,
+      "ticker": "BDX",
+      "momentum_12_1": 0.0156,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 324,
+      "ticker": "DRI",
+      "momentum_12_1": 0.012,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 325,
+      "ticker": "MSCI",
+      "momentum_12_1": 0.0119,
+      "sector": "Financials"
+    },
+    {
+      "rank": 326,
+      "ticker": "PEG",
+      "momentum_12_1": 0.0095,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 327,
+      "ticker": "ACGL",
+      "momentum_12_1": 0.007,
+      "sector": "Financials"
+    },
+    {
+      "rank": 328,
+      "ticker": "GPN",
+      "momentum_12_1": 0.0065,
+      "sector": "Financials"
+    },
+    {
+      "rank": 329,
+      "ticker": "SNPS",
+      "momentum_12_1": 0.0054,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 330,
+      "ticker": "KR",
+      "momentum_12_1": 0.0051,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 331,
+      "ticker": "MCO",
+      "momentum_12_1": 0.0046,
+      "sector": "Financials"
+    },
+    {
+      "rank": 332,
+      "ticker": "DXCM",
+      "momentum_12_1": 0.0041,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 333,
+      "ticker": "STE",
+      "momentum_12_1": 0.0028,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 334,
+      "ticker": "ED",
+      "momentum_12_1": 0.0022,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 335,
+      "ticker": "AFL",
+      "momentum_12_1": 0.0018,
+      "sector": "Financials"
+    },
+    {
+      "rank": 336,
+      "ticker": "MAS",
+      "momentum_12_1": 0.0013,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 337,
+      "ticker": "PCG",
+      "momentum_12_1": 0.0008,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 338,
+      "ticker": "COST",
+      "momentum_12_1": -0.0001,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 339,
+      "ticker": "SWKS",
+      "momentum_12_1": -0.0004,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 340,
+      "ticker": "CARR",
+      "momentum_12_1": -0.0008,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 341,
+      "ticker": "PRU",
+      "momentum_12_1": -0.0036,
+      "sector": "Financials"
+    },
+    {
+      "rank": 342,
+      "ticker": "DHR",
+      "momentum_12_1": -0.0056,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 343,
+      "ticker": "PTC",
+      "momentum_12_1": -0.0059,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 344,
+      "ticker": "WM",
+      "momentum_12_1": -0.007,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 345,
+      "ticker": "MCD",
+      "momentum_12_1": -0.0129,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 346,
+      "ticker": "SW",
+      "momentum_12_1": -0.0132,
+      "sector": "Materials"
+    },
+    {
+      "rank": 347,
+      "ticker": "SOLV",
+      "momentum_12_1": -0.014,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 348,
+      "ticker": "ISRG",
+      "momentum_12_1": -0.0143,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 349,
+      "ticker": "MET",
+      "momentum_12_1": -0.0153,
+      "sector": "Financials"
+    },
+    {
+      "rank": 350,
+      "ticker": "VRSN",
+      "momentum_12_1": -0.0158,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 351,
+      "ticker": "ICE",
+      "momentum_12_1": -0.0189,
+      "sector": "Financials"
+    },
+    {
+      "rank": 352,
+      "ticker": "VLTO",
+      "momentum_12_1": -0.0227,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 353,
+      "ticker": "UBER",
+      "momentum_12_1": -0.0282,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 354,
+      "ticker": "AMP",
+      "momentum_12_1": -0.0292,
+      "sector": "Financials"
+    },
+    {
+      "rank": 355,
+      "ticker": "AVY",
+      "momentum_12_1": -0.0306,
+      "sector": "Materials"
+    },
+    {
+      "rank": 356,
+      "ticker": "ROL",
+      "momentum_12_1": -0.0311,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 357,
+      "ticker": "WY",
+      "momentum_12_1": -0.0355,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 358,
+      "ticker": "NKE",
+      "momentum_12_1": -0.039,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 359,
+      "ticker": "PANW",
+      "momentum_12_1": -0.0392,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 360,
+      "ticker": "EXR",
+      "momentum_12_1": -0.0422,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 361,
+      "ticker": "HD",
+      "momentum_12_1": -0.0428,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 362,
+      "ticker": "CPAY",
+      "momentum_12_1": -0.0453,
+      "sector": "Financials"
+    },
+    {
+      "rank": 363,
+      "ticker": "SHW",
+      "momentum_12_1": -0.0466,
+      "sector": "Materials"
+    },
+    {
+      "rank": 364,
+      "ticker": "COIN",
+      "momentum_12_1": -0.0472,
+      "sector": "Financials"
+    },
+    {
+      "rank": 365,
+      "ticker": "DECK",
+      "momentum_12_1": -0.0473,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 366,
+      "ticker": "SYK",
+      "momentum_12_1": -0.0498,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 367,
+      "ticker": "TDG",
+      "momentum_12_1": -0.0498,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 368,
+      "ticker": "MA",
+      "momentum_12_1": -0.0499,
+      "sector": "Financials"
+    },
+    {
+      "rank": 369,
+      "ticker": "RVTY",
+      "momentum_12_1": -0.0508,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 370,
+      "ticker": "QCOM",
+      "momentum_12_1": -0.0509,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 371,
+      "ticker": "ORLY",
+      "momentum_12_1": -0.0529,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 372,
+      "ticker": "DOC",
+      "momentum_12_1": -0.0532,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 373,
+      "ticker": "WRB",
+      "momentum_12_1": -0.0576,
+      "sector": "Financials"
+    },
+    {
+      "rank": 374,
+      "ticker": "PSA",
+      "momentum_12_1": -0.0586,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 375,
+      "ticker": "CMCSA",
+      "momentum_12_1": -0.0593,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 376,
+      "ticker": "BKNG",
+      "momentum_12_1": -0.0597,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 377,
+      "ticker": "JKHY",
+      "momentum_12_1": -0.0672,
+      "sector": "Financials"
+    },
+    {
+      "rank": 378,
+      "ticker": "MOS",
+      "momentum_12_1": -0.0676,
+      "sector": "Materials"
+    },
+    {
+      "rank": 379,
+      "ticker": "IFF",
+      "momentum_12_1": -0.0682,
+      "sector": "Materials"
+    },
+    {
+      "rank": 380,
+      "ticker": "AIG",
+      "momentum_12_1": -0.069,
+      "sector": "Financials"
+    },
+    {
+      "rank": 381,
+      "ticker": "GPC",
+      "momentum_12_1": -0.0742,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 382,
+      "ticker": "PODD",
+      "momentum_12_1": -0.0759,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 383,
+      "ticker": "V",
+      "momentum_12_1": -0.0765,
+      "sector": "Financials"
+    },
+    {
+      "rank": 384,
+      "ticker": "NWSA",
+      "momentum_12_1": -0.0775,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 385,
+      "ticker": "BRK-B",
+      "momentum_12_1": -0.0796,
+      "sector": "Financials"
+    },
+    {
+      "rank": 386,
+      "ticker": "TSCO",
+      "momentum_12_1": -0.0796,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 387,
+      "ticker": "AWK",
+      "momentum_12_1": -0.0825,
+      "sector": "Utilities"
+    },
+    {
+      "rank": 388,
+      "ticker": "EG",
+      "momentum_12_1": -0.0826,
+      "sector": "Financials"
+    },
+    {
+      "rank": 389,
+      "ticker": "ADSK",
+      "momentum_12_1": -0.0833,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 390,
+      "ticker": "CHD",
+      "momentum_12_1": -0.0843,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 391,
+      "ticker": "VRTX",
+      "momentum_12_1": -0.0853,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 392,
+      "ticker": "ZBRA",
+      "momentum_12_1": -0.0868,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 393,
+      "ticker": "APO",
+      "momentum_12_1": -0.0869,
+      "sector": "Financials"
+    },
+    {
+      "rank": 394,
+      "ticker": "WAT",
+      "momentum_12_1": -0.0871,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 395,
+      "ticker": "TTWO",
+      "momentum_12_1": -0.0886,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 396,
+      "ticker": "WTW",
+      "momentum_12_1": -0.0888,
+      "sector": "Financials"
+    },
+    {
+      "rank": 397,
+      "ticker": "AZO",
+      "momentum_12_1": -0.0905,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 398,
+      "ticker": "NVR",
+      "momentum_12_1": -0.0931,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 399,
+      "ticker": "ESS",
+      "momentum_12_1": -0.0934,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 400,
+      "ticker": "NWS",
+      "momentum_12_1": -0.0969,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 401,
+      "ticker": "EPAM",
+      "momentum_12_1": -0.0974,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 402,
+      "ticker": "CL",
+      "momentum_12_1": -0.101,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 403,
+      "ticker": "RSG",
+      "momentum_12_1": -0.1053,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 404,
+      "ticker": "KKR",
+      "momentum_12_1": -0.1056,
+      "sector": "Financials"
+    },
+    {
+      "rank": 405,
+      "ticker": "BX",
+      "momentum_12_1": -0.1061,
+      "sector": "Financials"
+    },
+    {
+      "rank": 406,
+      "ticker": "ZBH",
+      "momentum_12_1": -0.1073,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 407,
+      "ticker": "AON",
+      "momentum_12_1": -0.1089,
+      "sector": "Financials"
+    },
+    {
+      "rank": 408,
+      "ticker": "CPT",
+      "momentum_12_1": -0.1091,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 409,
+      "ticker": "SPGI",
+      "momentum_12_1": -0.1114,
+      "sector": "Financials"
+    },
+    {
+      "rank": 410,
+      "ticker": "COO",
+      "momentum_12_1": -0.1166,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 411,
+      "ticker": "CTSH",
+      "momentum_12_1": -0.1207,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 412,
+      "ticker": "VICI",
+      "momentum_12_1": -0.1212,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 413,
+      "ticker": "EQR",
+      "momentum_12_1": -0.1213,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 414,
+      "ticker": "DASH",
+      "momentum_12_1": -0.1239,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 415,
+      "ticker": "NFLX",
+      "momentum_12_1": -0.1261,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 416,
+      "ticker": "CTAS",
+      "momentum_12_1": -0.1272,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 417,
+      "ticker": "LEN",
+      "momentum_12_1": -0.1287,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 418,
+      "ticker": "PG",
+      "momentum_12_1": -0.1293,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 419,
+      "ticker": "LII",
+      "momentum_12_1": -0.1384,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 420,
+      "ticker": "MDLZ",
+      "momentum_12_1": -0.1422,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 421,
+      "ticker": "BXP",
+      "momentum_12_1": -0.144,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 422,
+      "ticker": "SJM",
+      "momentum_12_1": -0.1441,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 423,
+      "ticker": "UDR",
+      "momentum_12_1": -0.1502,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 424,
+      "ticker": "PSKY",
+      "momentum_12_1": -0.1515,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 425,
+      "ticker": "AMCR",
+      "momentum_12_1": -0.1589,
+      "sector": "Materials"
+    },
+    {
+      "rank": 426,
+      "ticker": "FTNT",
+      "momentum_12_1": -0.1593,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 427,
+      "ticker": "STZ",
+      "momentum_12_1": -0.1623,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 428,
+      "ticker": "TMUS",
+      "momentum_12_1": -0.1681,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 429,
+      "ticker": "GEN",
+      "momentum_12_1": -0.1693,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 430,
+      "ticker": "PGR",
+      "momentum_12_1": -0.172,
+      "sector": "Financials"
+    },
+    {
+      "rank": 431,
+      "ticker": "AXON",
+      "momentum_12_1": -0.1781,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 432,
+      "ticker": "HPQ",
+      "momentum_12_1": -0.1793,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 433,
+      "ticker": "CDW",
+      "momentum_12_1": -0.1847,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 434,
+      "ticker": "AVB",
+      "momentum_12_1": -0.1859,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 435,
+      "ticker": "IP",
+      "momentum_12_1": -0.1895,
+      "sector": "Materials"
+    },
+    {
+      "rank": 436,
+      "ticker": "CI",
+      "momentum_12_1": -0.1945,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 437,
+      "ticker": "OTIS",
+      "momentum_12_1": -0.1972,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 438,
+      "ticker": "ABT",
+      "momentum_12_1": -0.1989,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 439,
+      "ticker": "MRSH",
+      "momentum_12_1": -0.2006,
+      "sector": "Financials"
+    },
+    {
+      "rank": 440,
+      "ticker": "MAA",
+      "momentum_12_1": -0.205,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 441,
+      "ticker": "AMT",
+      "momentum_12_1": -0.2085,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 442,
+      "ticker": "KVUE",
+      "momentum_12_1": -0.2106,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 443,
+      "ticker": "CCI",
+      "momentum_12_1": -0.2115,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 444,
+      "ticker": "ZTS",
+      "momentum_12_1": -0.2185,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 445,
+      "ticker": "ARES",
+      "momentum_12_1": -0.2267,
+      "sector": "Financials"
+    },
+    {
+      "rank": 446,
+      "ticker": "HRL",
+      "momentum_12_1": -0.2365,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 447,
+      "ticker": "KDP",
+      "momentum_12_1": -0.2432,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 448,
+      "ticker": "INVH",
+      "momentum_12_1": -0.2432,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 449,
+      "ticker": "CRM",
+      "momentum_12_1": -0.2443,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 450,
+      "ticker": "CLX",
+      "momentum_12_1": -0.2446,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 451,
+      "ticker": "DPZ",
+      "momentum_12_1": -0.2467,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 452,
+      "ticker": "KHC",
+      "momentum_12_1": -0.249,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 453,
+      "ticker": "KMB",
+      "momentum_12_1": -0.2509,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 454,
+      "ticker": "INTU",
+      "momentum_12_1": -0.2552,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 455,
+      "ticker": "SBAC",
+      "momentum_12_1": -0.2633,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 456,
+      "ticker": "SMCI",
+      "momentum_12_1": -0.2731,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 457,
+      "ticker": "TAP",
+      "momentum_12_1": -0.2745,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 458,
+      "ticker": "PYPL",
+      "momentum_12_1": -0.2764,
+      "sector": "Financials"
+    },
+    {
+      "rank": 459,
+      "ticker": "BLDR",
+      "momentum_12_1": -0.277,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 460,
+      "ticker": "ADP",
+      "momentum_12_1": -0.2829,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 461,
+      "ticker": "BSX",
+      "momentum_12_1": -0.283,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 462,
+      "ticker": "ELV",
+      "momentum_12_1": -0.287,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 463,
+      "ticker": "BR",
+      "momentum_12_1": -0.2872,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 464,
+      "ticker": "MKC",
+      "momentum_12_1": -0.2982,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 465,
+      "ticker": "EFX",
+      "momentum_12_1": -0.3022,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 466,
+      "ticker": "CMG",
+      "momentum_12_1": -0.3045,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 467,
+      "ticker": "ACN",
+      "momentum_12_1": -0.315,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 468,
+      "ticker": "ADBE",
+      "momentum_12_1": -0.3173,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 469,
+      "ticker": "NOW",
+      "momentum_12_1": -0.3176,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 470,
+      "ticker": "BF-B",
+      "momentum_12_1": -0.3211,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 471,
+      "ticker": "POOL",
+      "momentum_12_1": -0.3248,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 472,
+      "ticker": "HUM",
+      "momentum_12_1": -0.3277,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 473,
+      "ticker": "VRSK",
+      "momentum_12_1": -0.3295,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 474,
+      "ticker": "AJG",
+      "momentum_12_1": -0.3396,
+      "sector": "Financials"
+    },
+    {
+      "rank": 475,
+      "ticker": "GIS",
+      "momentum_12_1": -0.3413,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 476,
+      "ticker": "CHTR",
+      "momentum_12_1": -0.3433,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 477,
+      "ticker": "CAG",
+      "momentum_12_1": -0.3434,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 478,
+      "ticker": "UNH",
+      "momentum_12_1": -0.3446,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 479,
+      "ticker": "PAYX",
+      "momentum_12_1": -0.3453,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 480,
+      "ticker": "ARE",
+      "momentum_12_1": -0.3478,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 481,
+      "ticker": "FIS",
+      "momentum_12_1": -0.3629,
+      "sector": "Financials"
+    },
+    {
+      "rank": 482,
+      "ticker": "ROP",
+      "momentum_12_1": -0.3693,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 483,
+      "ticker": "LULU",
+      "momentum_12_1": -0.385,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "rank": 484,
+      "ticker": "ERIE",
+      "momentum_12_1": -0.3985,
+      "sector": "Financials"
+    },
+    {
+      "rank": 485,
+      "ticker": "TYL",
+      "momentum_12_1": -0.4001,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 486,
+      "ticker": "BAX",
+      "momentum_12_1": -0.4078,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 487,
+      "ticker": "WDAY",
+      "momentum_12_1": -0.415,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 488,
+      "ticker": "CPB",
+      "momentum_12_1": -0.4257,
+      "sector": "Consumer Staples"
+    },
+    {
+      "rank": 489,
+      "ticker": "BRO",
+      "momentum_12_1": -0.4302,
+      "sector": "Financials"
+    },
+    {
+      "rank": 490,
+      "ticker": "CNC",
+      "momentum_12_1": -0.4524,
+      "sector": "Health Care"
+    },
+    {
+      "rank": 491,
+      "ticker": "CPRT",
+      "momentum_12_1": -0.4564,
+      "sector": "Industrials"
+    },
+    {
+      "rank": 492,
+      "ticker": "FICO",
+      "momentum_12_1": -0.4687,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 493,
+      "ticker": "CSGP",
+      "momentum_12_1": -0.4873,
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 494,
+      "ticker": "FDS",
+      "momentum_12_1": -0.5276,
+      "sector": "Financials"
+    },
+    {
+      "rank": 495,
+      "ticker": "GDDY",
+      "momentum_12_1": -0.5281,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 496,
+      "ticker": "TTD",
+      "momentum_12_1": -0.5409,
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 497,
+      "ticker": "IT",
+      "momentum_12_1": -0.6218,
+      "sector": "Information Technology"
+    },
+    {
+      "rank": 498,
+      "ticker": "FISV",
+      "momentum_12_1": -0.7371,
+      "sector": "Financials"
+    }
+  ],
+  "next_rebalancing": "2026-05-01",
+  "sp500_constituents_count": 503,
+  "analyzed_count": 498
+}
